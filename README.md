@@ -6,11 +6,5 @@
 [![Twitter: VaniaDimova](https://img.shields.io/twitter/follow/VaniaDimova?style=social)](https://twitter.com/12Dimov)
 [![Linkedin: vaniadimova](https://img.shields.io/badge/-vaniadimova-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vandim/)](https://www.linkedin.com/in/vaniadimova/)
 [![GitHub vaniadimova](https://img.shields.io/github/followers/vania?label=follow&style=social)](https://github.com/vaniadimova/)
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # covidtracker
